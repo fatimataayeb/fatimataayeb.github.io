@@ -1,6 +1,6 @@
 // typed.js init
 var options = {
-    strings:["Hi.^1000","I'm Omar.^1000","I program random things.^2000"],
+    strings:["Hi.^1000","I'm Fatima.^1000","I am a Computer Scientist .^1000","I am a Problem Solver .^1000","I am a Cat-Enthusiast .^1000","I am a Tea Lover .^1000"],
     typeSpeed:40,
     startDelay:500,
     backSpeed:40,
