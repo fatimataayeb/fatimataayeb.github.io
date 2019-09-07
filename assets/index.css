@@ -52,7 +52,7 @@ header .buttons {
     align-items: center;
 }
 header .button.active {
-    background-color: rgba(178, 223, 219, 0.5);
+    background-color: rgb(157, 185, 205);;
 }
 /* END header styles */
 
@@ -71,7 +71,7 @@ main {
     justify-content: center;
     width: 100%;
     height: calc(100% - var(--header-height));
-    background-color: rgb(178, 223, 219);
+    background-color: rgb(157, 185, 205);
 }
 .jumbotron .typed-parent {
     text-align: center;
@@ -89,18 +89,18 @@ main {
     text-align: center;
 }
 .jumbotron .button:hover {
-    background-color: #004D40;
+    background-color: #13004d;
     color: #fff;
 }
 .jumbotron .button {
-    border: 2px solid #424242;
+    border: 2px solid #222e80;
 }
 .jumbotron .social {
     position: absolute;
     bottom: 10px;
     text-align: center;
     font-size: 1.5em;
-    color: #004d40;
+    color: #13004d;
 }
 /* END jumbotron styles */
 
@@ -149,7 +149,7 @@ main {
 footer .social {
     text-align: center;
     font-size: 1.5em;
-    color: #004d40;
+    color: #13004d;
 }
 /* END footer styles */
 
